@@ -51,6 +51,9 @@ Wrote 8 structured SQL queries against the `DBN_PO` table (`sql/durban_port_anal
 ---
 
 ## 🖼️ Dashboard Previews
-* **Page 1 — Executive Port Overview:** `screenshots/01_executive_port_overview.png`
-* **Page 2 — Terminal & Berth Efficiency:** `screenshots/02_terminal_berth_efficiency.png`
-* **Page 3 — Bottleneck & Delay Analysis:** `screenshots/03_bottleneck_delay_analysis.png`
+* **Page 1 — Executive Port Overview:** <img width="488" height="275" alt="01_Executive_Port_Overview" src="https://github.com/user-attachments/assets/cc6b3804-f9f5-4842-a01f-ed427045c651" />
+
+* **Page 2 — Terminal & Berth Efficiency:** <img width="485" height="274" alt="02_Terminal_Berth_Efficiency" src="https://github.com/user-attachments/assets/2b0748bc-c908-4497-a893-15b8369e2b0d" />
+
+* **Page 3 — Bottleneck & Delay Analysis:** <img width="486" height="269" alt="03_Bottleneck_Delay_Analysis" src="https://github.com/user-attachments/assets/b7844062-5a79-42ab-8937-e9a080a61cd0" />
+
