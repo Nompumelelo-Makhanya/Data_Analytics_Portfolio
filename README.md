@@ -38,4 +38,4 @@ I am currently completing a comprehensive **Big Data Analytics** short course, w
 
 * *LinkedIn:* [linkedin.com/in/nompumelelo-makhanya-b94290408](https://www.linkedin.com/in/nompumelelo-makhanya-b94290408)
 * *Email:* [nompumelelomakhanya6@gmail.com](mailto:nompumelelomakhanya6@gmail.com)
-* *GitHub:* [@Nompumelelo-Makhanya](https://github.com)
+* *GitHub:* [@Nompumelelo-Makhanya](https://github.com)](https://github.com/Nompumelelo-Makhanya/Data_Analytics_Portfolio)
